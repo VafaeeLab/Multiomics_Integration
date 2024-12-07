@@ -1,0 +1,161 @@
+Metabolite Name,Old Metabolite Name,Metabolite Module Number,Microbiome Name,Microbiome Module Number,Weight
+eicosenedioate (C20:1-DC)*,X1588,0,SS_Barnesiella.viscericola,0,-0.2549999952316284
+"1,2-dipalmitoyl-GPC (16:0/16:0)",X2092,1,SS_Muribaculum.intestinale,0,-0.11400000005960464
+3-ureidopropionate,X3969,2,SS_Parascardovia.denticolens,0,0.16899999976158142
+oxypurinol,X215,3,SS_Klebsiella.oxytoca,0,0.20600000023841858
+adipoylcarnitine (C6-DC),X1750,4,SS_Limosilactobacillus.fermentum,0,0.09200000017881393
+methionine,X392,5,SS_Muribaculum.intestinale,0,-0.02199999988079071
+1-palmitoyl-2-palmitoleoyl-GPC (16:0/16:1)*,X2093,6,SS_Muribaculum.intestinale,0,-0.10899999737739563
+deoxycholic acid (12 or 24)-sulfate*,X3220,7,SS_Parascardovia.denticolens,0,0.210999995470047
+eicosenedioate (C20:1-DC)*,X1588,0,SS_Barnesiella.viscericola,0,-0.2549999952316284
+4-hydroxychlorothalonil,X5652,0,SS_Muribaculum.gordoncarteri,1,0.2199999988079071
+"12,13-DiHOME",X1861,0,SS_Bacteroides.fragilis,2,-0.057999998331069946
+eicosenedioate (C20:1-DC)*,X1588,0,SS_Coprococcus.comes,3,-0.0430000014603138
+malate,X1556,0,SS_Eggerthella.sp..YY7918,4,0.17299999296665192
+carotene diol (3),X4153,0,SS_Phocaeicola.vulgatus,5,-0.20999999344348907
+dehydroepiandrosterone sulfate (DHEA-S),X3090,0,SS_Mageeibacillus.indolicus,6,0.0989999994635582
+"N6,N6,N6-trimethyllysine",X109,0,SS_Streptococcus.thermophilus,7,0.009999999776482582
+"1,6-anhydroglucose",X4428,0,SS_Coprobacter.sp..2CBH44,8,-0.26100000739097595
+2-aminobutyrate,X526,0,SS_Dialister.massiliensis,9,0.16899999976158142
+"1,2-dipalmitoyl-GPC (16:0/16:0)",X2092,1,SS_Muribaculum.intestinale,0,-0.11400000005960464
+"1,5-anhydroglucitol (1,5-AG)",X1129,1,SS_Bifidobacterium.animalis,1,0.4300000071525574
+lactate,X2854,1,SS_Campylobacter.coli,2,0.0430000014603138
+1-(1-enyl-palmitoyl)-2-palmitoleoyl-GPC (P-16:0/16:1)*,X2581,1,SS_Bacteroides.helcogenes,3,0.3630000054836273
+"sphingomyelin (d17:1/16:0, d18:1/15:0, d16:1/17:0)*",X2880,1,SS_Adlercreutzia.equolifaciens,4,0.061000000685453415
+"sphingomyelin (d17:1/14:0, d16:1/15:0)*",X2879,1,SS_Lautropia.mirabilis,5,0.4189999997615814
+"1,5-anhydroglucitol (1,5-AG)",X1129,1,SS_Anaerostipes.hadrus,6,-0.1120000034570694
+arachidoylcarnitine (C20)*,X1716,1,SS_Desulfobulbus.oralis,7,-0.08100000023841858
+1-palmitoleoyl-2-linolenoyl-GPC (16:1/18:3)*,X2123,1,SS_Propionibacterium.acidifaciens,8,-0.2919999957084656
+lactosyl-N-nervonoyl-sphingosine (d18:1/24:1)*,X2851,1,SS_Dialister.massiliensis,9,0.3889999985694885
+3-ureidopropionate,X3969,2,SS_Parascardovia.denticolens,0,0.16899999976158142
+taurolithocholate,X3238,2,SS_Phocaeicola.coprophilus,1,-0.289000004529953
+glutamine conjugate of C6H10O2 (2)*,X5775,2,SS_Lachnoclostridium.sp..YL32,2,-0.10499999672174454
+taurocholenate sulfate*,X3226,2,SS_Bacteroides.helcogenes,3,-0.597000002861023
+hexanoylglycine,X4176,2,SS_Clostridium.perfringens,4,0.19099999964237213
+4-hydroxycoumarin,X5206,2,SS_Trueperella.pyogenes,5,-0.2879999876022339
+3-phenylpropionate (hydrocinnamate),X4278,2,SS_Streptococcus.anginosus,6,0.20000000298023224
+3-hydroxyhexanoylcarnitine (1),X1762,2,SS_Bacteroides.sp..HF.162,7,-0.23100000619888306
+glutamine,X5773,2,SS_Porphyromonas.asaccharolytica,8,-0.25999999046325684
+heptenedioate (C7:1-DC)*,X1454,2,SS_Treponema.sp..RCC2812,9,0.06800000369548798
+oxypurinol,X215,3,SS_Klebsiella.oxytoca,0,0.20600000023841858
+N-acetylvaline,X2798,3,SS_Parolsenella.catena,1,-0.1509999930858612
+oxypurinol,X215,3,SS_Campylobacter.coli,2,-0.03500000014901161
+glycerol,X2619,3,SS_Romboutsia.ilealis,3,-0.17800000309944153
+sarcosine,X1566,3,SS_Adlercreutzia.sp..8CFCBH1,4,0.07900000363588333
+1-myristoylglycerol (14:0),X2625,3,SS_Trueperella.pyogenes,5,0.3930000066757202
+5-hydroxyhexanoate,X1826,3,SS_Faecalibacterium.virus.Brigit,6,-0.16599999368190765
+4-acetaminophen sulfate,X4974,3,SS_Parabacteroides.goldsteinii,7,0.07500000298023224
+palmitoyl-linoleoyl-glycerol (16:0/18:2) [2]*,X2680,3,SS_Phoenicibacter.congonensis,8,0.5339999794960022
+2-linoleoylglycerol (18:2),X2648,3,SS_Olsenella.sp..GAM18,9,-0.49000000953674316
+adipoylcarnitine (C6-DC),X1750,4,SS_Limosilactobacillus.fermentum,0,0.09200000017881393
+N-acetylleucine,X388,4,SS_Coprococcus.sp..ART55.1,1,-0.16899999976158142
+2-O-methylascorbic acid,X4073,4,SS_Bacteroides.fragilis,2,-0.44600000977516174
+7-methylguanine,X3918,4,SS_Anaerocolumna.sp..CTTW,3,-0.3400000035762787
+stearoyl-arachidonoyl-glycerol (18:0/20:4) [1]*,X1715,4,SS_Clostridium.perfringens,4,0.24400000274181366
+picolinate,X1694,4,SS_Lautropia.mirabilis,5,-0.23899999260902405
+"2S,3R-dihydroxybutyrate",X1864,4,SS_Faecalibacterium.virus.Brigit,6,0.061000000685453415
+4-hydroxyhippurate,X4184,4,SS_Intestinibaculum.porci,7,0.2590000033378601
+"2,3-dihydroxy-2-methylbutyrate",X382,4,SS_Porphyromonas.asaccharolytica,8,0.3959999978542328
+"2S,3R-dihydroxybutyrate",X1864,4,SS_Treponema.sp..RCC2812,9,-0.3310000002384186
+methionine,X392,5,SS_Muribaculum.intestinale,0,-0.02199999988079071
+"sphingomyelin (d18:2/24:1, d18:1/24:2)*",X2875,5,SS_Alistipes.megaguti,1,0.1860000044107437
+stearidonate (18:4n3),X2869,5,SS_Campylobacter.coli,2,-0.07500000298023224
+homostachydrine*,X73,5,SS_Bacteroides.helcogenes,3,-0.1770000010728836
+"sphingomyelin (d18:1/18:1, d18:2/18:0)",X2884,5,SS_Clostridium.perfringens,4,0.36800000071525574
+"sphingomyelin (d18:1/14:0, d16:1/16:0)*",X2882,5,SS_Lautropia.mirabilis,5,0.453000009059906
+N-stearoyl-sphingadienine (d18:2/18:0)*,X2779,5,SS_Alistipes.communis,6,-0.26499998569488525
+methionine,X392,5,SS_Desulfobulbus.oralis,7,0.1120000034570694
+methionine,X392,5,SS_Phoenicibacter.congonensis,8,-0.24699999392032623
+"sphingomyelin (d18:2/24:1, d18:1/24:2)*",X2875,5,SS_Dialister.massiliensis,9,0.335999995470047
+1-palmitoyl-2-palmitoleoyl-GPC (16:0/16:1)*,X2093,6,SS_Muribaculum.intestinale,0,-0.10899999737739563
+pyruvate,X4562,6,SS_Bifidobacterium.animalis,1,0.210999995470047
+1-stearoyl-2-oleoyl-GPC (18:0/18:1),X2133,6,SS_Bacteroides.fragilis,2,0.09799999743700027
+1-palmitoyl-2-palmitoleoyl-GPC (16:0/16:1)*,X2093,6,SS_Blautia.sp..LZLJ.3,3,0.460999995470047
+"N,N-dimethyl-5-aminovalerate",X32,6,SS_Adlercreutzia.equolifaciens,4,-0.1599999964237213
+glycosyl-N-palmitoyl-sphingosine (d18:1/16:0),X2822,6,SS_Phocaeicola.vulgatus,5,0.07900000363588333
+1-palmitoyl-2-linoleoyl-GPI (16:0/18:2),X2334,6,SS_Dialister.pneumosintes,6,-0.054999999701976776
+propionylcarnitine (C3),X1657,6,SS_Enterococcus.faecium,7,0.03099999949336052
+1-palmitoyl-2-arachidonoyl-GPI (16:0/20:4)*,X2336,6,SS_Propionibacterium.acidifaciens,8,0.05400000140070915
+gamma-glutamylglycine,X578,6,SS_Petrimonas.mucosa,9,0.06499999761581421
+deoxycholic acid (12 or 24)-sulfate*,X3220,7,SS_Parascardovia.denticolens,0,0.210999995470047
+2-oleoylglycerol (18:1),X2647,7,SS_Prevotella.copri,1,-0.28200000524520874
+2-oleoylglycerol (18:1),X2647,7,SS_Bacteroides.fragilis,2,-0.289000004529953
+cystathionine,X406,7,SS_Blautia.sp..LZLJ.3,3,-0.20499999821186066
+deoxycholic acid (12 or 24)-sulfate*,X3220,7,SS_Streptococcus.agalactiae,4,-0.07999999821186066
+indoleacetylglutamine,X275,7,SS_Lautropia.mirabilis,5,-0.3140000104904175
+3-(4-hydroxyphenyl)lactate,X171,7,SS_Faecalibacterium.virus.Brigit,6,0.22300000488758087
+5-methylthioadenosine (MTA),X502,7,SS_Enterococcus.saigonensis,7,0.04800000041723251
+1-ribosyl-imidazoleacetate*,X90,7,SS_Propionibacterium.acidifaciens,8,0.44200000166893005
+isoleucine,X3245,7,SS_Sodaliphilus.pleomorphus,9,-0.24899999797344208
+4-hydroxychlorothalonil,X5652,0,SS_Muribaculum.gordoncarteri,1,0.2199999988079071
+"1,5-anhydroglucitol (1,5-AG)",X1129,1,SS_Bifidobacterium.animalis,1,0.4300000071525574
+taurolithocholate,X3238,2,SS_Phocaeicola.coprophilus,1,-0.289000004529953
+N-acetylvaline,X2798,3,SS_Parolsenella.catena,1,-0.1509999930858612
+N-acetylleucine,X388,4,SS_Coprococcus.sp..ART55.1,1,-0.16899999976158142
+"sphingomyelin (d18:2/24:1, d18:1/24:2)*",X2875,5,SS_Alistipes.megaguti,1,0.1860000044107437
+pyruvate,X4562,6,SS_Bifidobacterium.animalis,1,0.210999995470047
+2-oleoylglycerol (18:1),X2647,7,SS_Prevotella.copri,1,-0.28200000524520874
+"12,13-DiHOME",X1861,0,SS_Bacteroides.fragilis,2,-0.057999998331069946
+lactate,X2854,1,SS_Campylobacter.coli,2,0.0430000014603138
+glutamine conjugate of C6H10O2 (2)*,X5775,2,SS_Lachnoclostridium.sp..YL32,2,-0.10499999672174454
+oxypurinol,X215,3,SS_Campylobacter.coli,2,-0.03500000014901161
+2-O-methylascorbic acid,X4073,4,SS_Bacteroides.fragilis,2,-0.44600000977516174
+stearidonate (18:4n3),X2869,5,SS_Campylobacter.coli,2,-0.07500000298023224
+1-stearoyl-2-oleoyl-GPC (18:0/18:1),X2133,6,SS_Bacteroides.fragilis,2,0.09799999743700027
+2-oleoylglycerol (18:1),X2647,7,SS_Bacteroides.fragilis,2,-0.289000004529953
+eicosenedioate (C20:1-DC)*,X1588,0,SS_Coprococcus.comes,3,-0.0430000014603138
+1-(1-enyl-palmitoyl)-2-palmitoleoyl-GPC (P-16:0/16:1)*,X2581,1,SS_Bacteroides.helcogenes,3,0.3630000054836273
+taurocholenate sulfate*,X3226,2,SS_Bacteroides.helcogenes,3,-0.597000002861023
+glycerol,X2619,3,SS_Romboutsia.ilealis,3,-0.17800000309944153
+7-methylguanine,X3918,4,SS_Anaerocolumna.sp..CTTW,3,-0.3400000035762787
+homostachydrine*,X73,5,SS_Bacteroides.helcogenes,3,-0.1770000010728836
+1-palmitoyl-2-palmitoleoyl-GPC (16:0/16:1)*,X2093,6,SS_Blautia.sp..LZLJ.3,3,0.460999995470047
+cystathionine,X406,7,SS_Blautia.sp..LZLJ.3,3,-0.20499999821186066
+malate,X1556,0,SS_Eggerthella.sp..YY7918,4,0.17299999296665192
+"sphingomyelin (d17:1/16:0, d18:1/15:0, d16:1/17:0)*",X2880,1,SS_Adlercreutzia.equolifaciens,4,0.061000000685453415
+hexanoylglycine,X4176,2,SS_Clostridium.perfringens,4,0.19099999964237213
+sarcosine,X1566,3,SS_Adlercreutzia.sp..8CFCBH1,4,0.07900000363588333
+stearoyl-arachidonoyl-glycerol (18:0/20:4) [1]*,X1715,4,SS_Clostridium.perfringens,4,0.24400000274181366
+"sphingomyelin (d18:1/18:1, d18:2/18:0)",X2884,5,SS_Clostridium.perfringens,4,0.36800000071525574
+"N,N-dimethyl-5-aminovalerate",X32,6,SS_Adlercreutzia.equolifaciens,4,-0.1599999964237213
+deoxycholic acid (12 or 24)-sulfate*,X3220,7,SS_Streptococcus.agalactiae,4,-0.07999999821186066
+carotene diol (3),X4153,0,SS_Phocaeicola.vulgatus,5,-0.20999999344348907
+"sphingomyelin (d17:1/14:0, d16:1/15:0)*",X2879,1,SS_Lautropia.mirabilis,5,0.4189999997615814
+4-hydroxycoumarin,X5206,2,SS_Trueperella.pyogenes,5,-0.2879999876022339
+1-myristoylglycerol (14:0),X2625,3,SS_Trueperella.pyogenes,5,0.3930000066757202
+picolinate,X1694,4,SS_Lautropia.mirabilis,5,-0.23899999260902405
+"sphingomyelin (d18:1/14:0, d16:1/16:0)*",X2882,5,SS_Lautropia.mirabilis,5,0.453000009059906
+glycosyl-N-palmitoyl-sphingosine (d18:1/16:0),X2822,6,SS_Phocaeicola.vulgatus,5,0.07900000363588333
+indoleacetylglutamine,X275,7,SS_Lautropia.mirabilis,5,-0.3140000104904175
+dehydroepiandrosterone sulfate (DHEA-S),X3090,0,SS_Mageeibacillus.indolicus,6,0.0989999994635582
+"1,5-anhydroglucitol (1,5-AG)",X1129,1,SS_Anaerostipes.hadrus,6,-0.1120000034570694
+3-phenylpropionate (hydrocinnamate),X4278,2,SS_Streptococcus.anginosus,6,0.20000000298023224
+5-hydroxyhexanoate,X1826,3,SS_Faecalibacterium.virus.Brigit,6,-0.16599999368190765
+"2S,3R-dihydroxybutyrate",X1864,4,SS_Faecalibacterium.virus.Brigit,6,0.061000000685453415
+N-stearoyl-sphingadienine (d18:2/18:0)*,X2779,5,SS_Alistipes.communis,6,-0.26499998569488525
+1-palmitoyl-2-linoleoyl-GPI (16:0/18:2),X2334,6,SS_Dialister.pneumosintes,6,-0.054999999701976776
+3-(4-hydroxyphenyl)lactate,X171,7,SS_Faecalibacterium.virus.Brigit,6,0.22300000488758087
+"N6,N6,N6-trimethyllysine",X109,0,SS_Streptococcus.thermophilus,7,0.009999999776482582
+arachidoylcarnitine (C20)*,X1716,1,SS_Desulfobulbus.oralis,7,-0.08100000023841858
+3-hydroxyhexanoylcarnitine (1),X1762,2,SS_Bacteroides.sp..HF.162,7,-0.23100000619888306
+4-acetaminophen sulfate,X4974,3,SS_Parabacteroides.goldsteinii,7,0.07500000298023224
+4-hydroxyhippurate,X4184,4,SS_Intestinibaculum.porci,7,0.2590000033378601
+methionine,X392,5,SS_Desulfobulbus.oralis,7,0.1120000034570694
+propionylcarnitine (C3),X1657,6,SS_Enterococcus.faecium,7,0.03099999949336052
+5-methylthioadenosine (MTA),X502,7,SS_Enterococcus.saigonensis,7,0.04800000041723251
+"1,6-anhydroglucose",X4428,0,SS_Coprobacter.sp..2CBH44,8,-0.26100000739097595
+1-palmitoleoyl-2-linolenoyl-GPC (16:1/18:3)*,X2123,1,SS_Propionibacterium.acidifaciens,8,-0.2919999957084656
+glutamine,X5773,2,SS_Porphyromonas.asaccharolytica,8,-0.25999999046325684
+palmitoyl-linoleoyl-glycerol (16:0/18:2) [2]*,X2680,3,SS_Phoenicibacter.congonensis,8,0.5339999794960022
+"2,3-dihydroxy-2-methylbutyrate",X382,4,SS_Porphyromonas.asaccharolytica,8,0.3959999978542328
+methionine,X392,5,SS_Phoenicibacter.congonensis,8,-0.24699999392032623
+1-palmitoyl-2-arachidonoyl-GPI (16:0/20:4)*,X2336,6,SS_Propionibacterium.acidifaciens,8,0.05400000140070915
+1-ribosyl-imidazoleacetate*,X90,7,SS_Propionibacterium.acidifaciens,8,0.44200000166893005
+2-aminobutyrate,X526,0,SS_Dialister.massiliensis,9,0.16899999976158142
+lactosyl-N-nervonoyl-sphingosine (d18:1/24:1)*,X2851,1,SS_Dialister.massiliensis,9,0.3889999985694885
+heptenedioate (C7:1-DC)*,X1454,2,SS_Treponema.sp..RCC2812,9,0.06800000369548798
+2-linoleoylglycerol (18:2),X2648,3,SS_Olsenella.sp..GAM18,9,-0.49000000953674316
+"2S,3R-dihydroxybutyrate",X1864,4,SS_Treponema.sp..RCC2812,9,-0.3310000002384186
+"sphingomyelin (d18:2/24:1, d18:1/24:2)*",X2875,5,SS_Dialister.massiliensis,9,0.335999995470047
+gamma-glutamylglycine,X578,6,SS_Petrimonas.mucosa,9,0.06499999761581421
+isoleucine,X3245,7,SS_Sodaliphilus.pleomorphus,9,-0.24899999797344208
