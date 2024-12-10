@@ -1,0 +1,27 @@
+Metabolite Name,Converted Metabolite Name,Metabolite Module Number,Cytokine Name,Cytokine Module Number,Weight
+X2699,oleoyl-oleoyl-glycerol (18:1/18:1)  [1]*,1,Cyt_IL.13,0,0.4620000123977661
+X2699,oleoyl-oleoyl-glycerol (18:1/18:1)  [1]*,1,Cyt_IL.1b,1,0.4099999964237213
+X4294,"1,3-dimethylurate",4,Cyt_IL.13,0,0.382999986410141
+X1148,pyrraline,7,Cyt_IL.13,0,-0.2849999964237213
+X1148,pyrraline,7,Cyt_IL.1b,1,0.4309999942779541
+X2854,lactate,0,Cyt_IL.13,0,-0.12999999523162842
+X1694,picolinate,2,Cyt_IL.13,0,-0.20900000631809235
+X133,phenylacetylglutamine,2,Cyt_IL.1b,1,-0.2370000034570694
+X3222,deoxycholic acid glucuronide,3,Cyt_IL.13,0,-0.45399999618530273
+X3252,glycoursodeoxycholate,3,Cyt_IL.1b,1,-0.5979999899864197
+X5688,3-hydroxy-2-methylpyridine sulfate,5,Cyt_IL.13,0,-0.15700000524520874
+X3129,"5alpha-androstan-3alpha,17beta-diol disulfate",5,Cyt_IL.1b,1,-0.28200000524520874
+X4041,1-methylnicotinamide,6,Cyt_IL.13,0,0.12600000202655792
+X2854,lactate,0,Cyt_IL.13,0,-0.12999999523162842
+X2699,oleoyl-oleoyl-glycerol (18:1/18:1)  [1]*,1,Cyt_IL.13,0,0.4620000123977661
+X1694,picolinate,2,Cyt_IL.13,0,-0.20900000631809235
+X3222,deoxycholic acid glucuronide,3,Cyt_IL.13,0,-0.45399999618530273
+X4294,"1,3-dimethylurate",4,Cyt_IL.13,0,0.382999986410141
+X5688,3-hydroxy-2-methylpyridine sulfate,5,Cyt_IL.13,0,-0.15700000524520874
+X4041,1-methylnicotinamide,6,Cyt_IL.13,0,0.12600000202655792
+X1148,pyrraline,7,Cyt_IL.13,0,-0.2849999964237213
+X2699,oleoyl-oleoyl-glycerol (18:1/18:1)  [1]*,1,Cyt_IL.1b,1,0.4099999964237213
+X133,phenylacetylglutamine,2,Cyt_IL.1b,1,-0.2370000034570694
+X3252,glycoursodeoxycholate,3,Cyt_IL.1b,1,-0.5979999899864197
+X3129,"5alpha-androstan-3alpha,17beta-diol disulfate",5,Cyt_IL.1b,1,-0.28200000524520874
+X1148,pyrraline,7,Cyt_IL.1b,1,0.4309999942779541
