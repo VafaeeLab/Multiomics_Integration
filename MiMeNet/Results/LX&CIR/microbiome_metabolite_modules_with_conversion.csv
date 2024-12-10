@@ -1,0 +1,145 @@
+Metabolite Name,Old Metabolite Name,Metabolite Module Number,Microbiome Name,Microbiome Module Number,Weight
+glycosyl-N-nervonoyl-sphingosine (d18:1/24:1)*,X2821,0,SS_Bacteroides.sp..CBA7301,0,0.210999995470047
+ranitidine N-oxide*,X4149,1,SS_Streptococcus.oralis,0,-0.6190000176429749
+N4-acetylsulfamethoxazole*,X110,2,SS_Anaerocolumna.sp..CTTW,0,-0.16300000250339508
+glycoursodeoxycholate,X3252,3,SS_Bacteroides.sp..CBA7301,0,-0.1550000011920929
+creatine,X476,4,SS_Anaerocolumna.sp..CTTW,0,-0.6650000214576721
+betaine,X6,5,SS_Bacteroides.sp..CBA7301,0,0.004999999888241291
+dodecadienoate (12:2)*,X1574,6,SS_Bacteroides.sp..CBA7301,0,0.30399999022483826
+glycocholate,X3214,7,SS_Roseburia.hominis,0,-0.17399999499320984
+glycosyl-N-nervonoyl-sphingosine (d18:1/24:1)*,X2821,0,SS_Bacteroides.sp..CBA7301,0,0.210999995470047
+glycolithocholate,X3236,0,SS_Dialister.pneumosintes,1,0.13899999856948853
+glycosyl-N-nervonoyl-sphingosine (d18:1/24:1)*,X2821,0,SS_Streptococcus.sp..KS.6,2,0.7009999752044678
+glycosyl-N-nervonoyl-sphingosine (d18:1/24:1)*,X2821,0,SS_Bifidobacterium.dentium,3,0.2840000092983246
+taurocholate,X3271,0,SS_Klebsiella.pneumoniae,4,0.5080000162124634
+glycosyl-N-nervonoyl-sphingosine (d18:1/24:1)*,X2821,0,SS_.Ruminococcus..gnavus,5,0.057999998331069946
+glycolithocholate,X3236,0,SS_Bacteroides.heparinolyticus,6,-0.2070000022649765
+glycolithocholate,X3236,0,SS_Treponema.phagedenis,7,-0.8029999732971191
+1-palmitoyl-2-stearoyl-GPC (16:0/18:0),X2094,0,SS_Desulfovibrio.fairfieldensis,8,-0.4410000145435333
+ranitidine N-oxide*,X4149,1,SS_Streptococcus.oralis,0,-0.6190000176429749
+N-acetylvaline,X2798,1,SS_Dialister.pneumosintes,1,-0.4180000126361847
+1-arachidonylglycerol (20:4),X2639,1,SS_Campylobacter.concisus,2,-0.5879999995231628
+myristoyl dihydrosphingomyelin (d18:0/14:0)*,X2674,1,SS_Streptococcus.australis,3,0.03500000014901161
+myristoyl dihydrosphingomyelin (d18:0/14:0)*,X2674,1,SS_Lawsonella.clevelandensis,4,0.5519999861717224
+1-stearoyl-2-arachidonoyl-GPC (18:0/20:4),X2144,1,SS_Lachnoclostridium.phocaeense,5,-0.4410000145435333
+myristoyl dihydrosphingomyelin (d18:0/14:0)*,X2674,1,SS_Roseburia.intestinalis,6,0.006000000052154064
+myristoyl dihydrosphingomyelin (d18:0/14:0)*,X2674,1,SS_Eubacterium.callanderi,7,0.6110000014305115
+myristoyl dihydrosphingomyelin (d18:0/14:0)*,X2674,1,SS_Desulfovibrio.fairfieldensis,8,0.7919999957084656
+N4-acetylsulfamethoxazole*,X110,2,SS_Anaerocolumna.sp..CTTW,0,-0.16300000250339508
+phenylacetylglutamine,X133,2,SS_Coprococcus.catus,1,-0.5569999814033508
+N4-acetylsulfamethoxazole*,X110,2,SS_Streptococcus.sp..KS.6,2,0.5460000038146973
+picolinate,X1694,2,SS_Streptococcus.australis,3,0.5740000009536743
+methyl-4-hydroxybenzoate sulfate,X1659,2,SS_Prevotella.melaninogenica,4,-0.3569999933242798
+"N6,N6,N6-trimethyllysine",X109,2,SS_.Ruminococcus..gnavus,5,-0.09600000083446503
+picolinate,X1694,2,SS_Blautia.obeum,6,-0.19099999964237213
+"N6,N6,N6-trimethyllysine",X109,2,SS_Eubacterium.callanderi,7,-0.8640000224113464
+picolinate,X1694,2,SS_Desulfovibrio.fairfieldensis,8,0.6669999957084656
+glycoursodeoxycholate,X3252,3,SS_Bacteroides.sp..CBA7301,0,-0.1550000011920929
+deoxycholic acid glucuronide,X3222,3,SS_Escherichia.coli,1,-0.30000001192092896
+deoxycholic acid glucuronide,X3222,3,SS_Streptococcus.sp..KS.6,2,0.38600000739097595
+deoxycholic acid glucuronide,X3222,3,SS_Bifidobacterium.dentium,3,0.4880000054836273
+deoxycholic acid glucuronide,X3222,3,SS_Klebsiella.pneumoniae,4,-0.027000000700354576
+glycoursodeoxycholate,X3252,3,SS_Enterobacter.hormaechei,5,-0.1289999932050705
+deoxycholic acid glucuronide,X3222,3,SS_Bacteroides.heparinolyticus,6,-0.44600000977516174
+eicosenedioate (C20:1-DC)*,X1588,3,SS_Enterocloster.clostridioformis,7,-0.6269999742507935
+trans-2-hexenoylglycine,X461,3,SS_Prevotella.copri,8,-0.41100001335144043
+creatine,X476,4,SS_Anaerocolumna.sp..CTTW,0,-0.6650000214576721
+"1,3-dimethylurate",X4294,4,SS_Dialister.pneumosintes,1,-0.07500000298023224
+creatine,X476,4,SS_Campylobacter.concisus,2,-0.5720000267028809
+1-palmitoyl-2-oleoyl-GPE (16:0/18:1),X2216,4,SS_Streptococcus.australis,3,0.17000000178813934
+1-palmitoyl-2-oleoyl-GPE (16:0/18:1),X2216,4,SS_Klebsiella.pneumoniae,4,0.1589999943971634
+5-acetylamino-6-amino-3-methyluracil,X4301,4,SS_Bacteroides.thetaiotaomicron,5,-0.05900000035762787
+1-palmitoyl-2-oleoyl-GPE (16:0/18:1),X2216,4,SS_Roseburia.intestinalis,6,0.2759999930858612
+1-palmitoyl-2-oleoyl-GPE (16:0/18:1),X2216,4,SS_Eubacterium.callanderi,7,0.7310000061988831
+1-palmitoyl-2-oleoyl-GPE (16:0/18:1),X2216,4,SS_Desulfovibrio.fairfieldensis,8,0.6589999794960022
+betaine,X6,5,SS_Bacteroides.sp..CBA7301,0,0.004999999888241291
+"5alpha-androstan-3alpha,17beta-diol disulfate",X3129,5,SS_Dialister.pneumosintes,1,-0.2980000078678131
+"5alpha-androstan-3alpha,17beta-diol disulfate",X3129,5,SS_Faecalibaculum.rodentium,2,0.41600000858306885
+2-pyrrolidinone,X58,5,SS_Butyricimonas.faecalis,3,0.11599999666213989
+"5alpha-androstan-3alpha,17beta-diol disulfate",X3129,5,SS_Klebsiella.pneumoniae,4,-0.20600000023841858
+"5alpha-androstan-3alpha,17beta-diol disulfate",X3129,5,SS_.Ruminococcus..gnavus,5,0.3700000047683716
+"5alpha-androstan-3alpha,17beta-diol disulfate",X3129,5,SS_Blautia.obeum,6,0.05900000035762787
+3-hydroxy-2-methylpyridine sulfate,X5688,5,SS_Eubacterium.callanderi,7,-0.44999998807907104
+4-ethylphenylsulfate,X4231,5,SS_Tannerella.sp..oral.taxon.HOT.286,8,-0.0729999989271164
+dodecadienoate (12:2)*,X1574,6,SS_Bacteroides.sp..CBA7301,0,0.30399999022483826
+N-acetylthreonine,X239,6,SS_Bacteroides.uniformis,1,-0.14499999582767487
+N-acetylthreonine,X239,6,SS_Faecalibaculum.rodentium,2,0.31299999356269836
+1-linoleoyl-GPI (18:2)*,X2504,6,SS_Streptococcus.sanguinis,3,-0.023000000044703484
+ectoine,X5599,6,SS_Streptococcus.sp..LPB0220,4,-0.09300000220537186
+1-(1-enyl-palmitoyl)-2-arachidonoyl-GPC (P-16:0/20:4)*,X2590,6,SS_.Ruminococcus..gnavus,5,-0.18299999833106995
+cis-4-decenoate (10:1n6)*,X1393,6,SS_Blautia.obeum,6,-0.5429999828338623
+dodecadienoate (12:2)*,X1574,6,SS_Enterocloster.clostridioformis,7,-0.5509999990463257
+1-(1-enyl-palmitoyl)-GPC (P-16:0)*,X2610,6,SS_Porphyromonas.asaccharolytica,8,-0.2460000067949295
+glycocholate,X3214,7,SS_Roseburia.hominis,0,-0.17399999499320984
+pyrraline,X1148,7,SS_Coprococcus.catus,1,0.07500000298023224
+glycocholate,X3214,7,SS_Odoribacter.splanchnicus,2,-0.5960000157356262
+glycocholate,X3214,7,SS_Klebsiella.aerogenes,3,-0.24699999392032623
+glycocholate,X3214,7,SS_Klebsiella.pneumoniae,4,0.10700000077486038
+pyrraline,X1148,7,SS_.Ruminococcus..torques,5,-0.4009999930858612
+glycocholate,X3214,7,SS_Blautia.obeum,6,0.8040000200271606
+glycocholate,X3214,7,SS_Eubacterium.callanderi,7,0.41499999165534973
+glycocholate,X3214,7,SS_Desulfovibrio.fairfieldensis,8,0.13099999725818634
+glycolithocholate,X3236,0,SS_Dialister.pneumosintes,1,0.13899999856948853
+N-acetylvaline,X2798,1,SS_Dialister.pneumosintes,1,-0.4180000126361847
+phenylacetylglutamine,X133,2,SS_Coprococcus.catus,1,-0.5569999814033508
+deoxycholic acid glucuronide,X3222,3,SS_Escherichia.coli,1,-0.30000001192092896
+"1,3-dimethylurate",X4294,4,SS_Dialister.pneumosintes,1,-0.07500000298023224
+"5alpha-androstan-3alpha,17beta-diol disulfate",X3129,5,SS_Dialister.pneumosintes,1,-0.2980000078678131
+N-acetylthreonine,X239,6,SS_Bacteroides.uniformis,1,-0.14499999582767487
+pyrraline,X1148,7,SS_Coprococcus.catus,1,0.07500000298023224
+glycosyl-N-nervonoyl-sphingosine (d18:1/24:1)*,X2821,0,SS_Streptococcus.sp..KS.6,2,0.7009999752044678
+1-arachidonylglycerol (20:4),X2639,1,SS_Campylobacter.concisus,2,-0.5879999995231628
+N4-acetylsulfamethoxazole*,X110,2,SS_Streptococcus.sp..KS.6,2,0.5460000038146973
+deoxycholic acid glucuronide,X3222,3,SS_Streptococcus.sp..KS.6,2,0.38600000739097595
+creatine,X476,4,SS_Campylobacter.concisus,2,-0.5720000267028809
+"5alpha-androstan-3alpha,17beta-diol disulfate",X3129,5,SS_Faecalibaculum.rodentium,2,0.41600000858306885
+N-acetylthreonine,X239,6,SS_Faecalibaculum.rodentium,2,0.31299999356269836
+glycocholate,X3214,7,SS_Odoribacter.splanchnicus,2,-0.5960000157356262
+glycosyl-N-nervonoyl-sphingosine (d18:1/24:1)*,X2821,0,SS_Bifidobacterium.dentium,3,0.2840000092983246
+myristoyl dihydrosphingomyelin (d18:0/14:0)*,X2674,1,SS_Streptococcus.australis,3,0.03500000014901161
+picolinate,X1694,2,SS_Streptococcus.australis,3,0.5740000009536743
+deoxycholic acid glucuronide,X3222,3,SS_Bifidobacterium.dentium,3,0.4880000054836273
+1-palmitoyl-2-oleoyl-GPE (16:0/18:1),X2216,4,SS_Streptococcus.australis,3,0.17000000178813934
+2-pyrrolidinone,X58,5,SS_Butyricimonas.faecalis,3,0.11599999666213989
+1-linoleoyl-GPI (18:2)*,X2504,6,SS_Streptococcus.sanguinis,3,-0.023000000044703484
+glycocholate,X3214,7,SS_Klebsiella.aerogenes,3,-0.24699999392032623
+taurocholate,X3271,0,SS_Klebsiella.pneumoniae,4,0.5080000162124634
+myristoyl dihydrosphingomyelin (d18:0/14:0)*,X2674,1,SS_Lawsonella.clevelandensis,4,0.5519999861717224
+methyl-4-hydroxybenzoate sulfate,X1659,2,SS_Prevotella.melaninogenica,4,-0.3569999933242798
+deoxycholic acid glucuronide,X3222,3,SS_Klebsiella.pneumoniae,4,-0.027000000700354576
+1-palmitoyl-2-oleoyl-GPE (16:0/18:1),X2216,4,SS_Klebsiella.pneumoniae,4,0.1589999943971634
+"5alpha-androstan-3alpha,17beta-diol disulfate",X3129,5,SS_Klebsiella.pneumoniae,4,-0.20600000023841858
+ectoine,X5599,6,SS_Streptococcus.sp..LPB0220,4,-0.09300000220537186
+glycocholate,X3214,7,SS_Klebsiella.pneumoniae,4,0.10700000077486038
+glycosyl-N-nervonoyl-sphingosine (d18:1/24:1)*,X2821,0,SS_.Ruminococcus..gnavus,5,0.057999998331069946
+1-stearoyl-2-arachidonoyl-GPC (18:0/20:4),X2144,1,SS_Lachnoclostridium.phocaeense,5,-0.4410000145435333
+"N6,N6,N6-trimethyllysine",X109,2,SS_.Ruminococcus..gnavus,5,-0.09600000083446503
+glycoursodeoxycholate,X3252,3,SS_Enterobacter.hormaechei,5,-0.1289999932050705
+5-acetylamino-6-amino-3-methyluracil,X4301,4,SS_Bacteroides.thetaiotaomicron,5,-0.05900000035762787
+"5alpha-androstan-3alpha,17beta-diol disulfate",X3129,5,SS_.Ruminococcus..gnavus,5,0.3700000047683716
+1-(1-enyl-palmitoyl)-2-arachidonoyl-GPC (P-16:0/20:4)*,X2590,6,SS_.Ruminococcus..gnavus,5,-0.18299999833106995
+pyrraline,X1148,7,SS_.Ruminococcus..torques,5,-0.4009999930858612
+glycolithocholate,X3236,0,SS_Bacteroides.heparinolyticus,6,-0.2070000022649765
+myristoyl dihydrosphingomyelin (d18:0/14:0)*,X2674,1,SS_Roseburia.intestinalis,6,0.006000000052154064
+picolinate,X1694,2,SS_Blautia.obeum,6,-0.19099999964237213
+deoxycholic acid glucuronide,X3222,3,SS_Bacteroides.heparinolyticus,6,-0.44600000977516174
+1-palmitoyl-2-oleoyl-GPE (16:0/18:1),X2216,4,SS_Roseburia.intestinalis,6,0.2759999930858612
+"5alpha-androstan-3alpha,17beta-diol disulfate",X3129,5,SS_Blautia.obeum,6,0.05900000035762787
+cis-4-decenoate (10:1n6)*,X1393,6,SS_Blautia.obeum,6,-0.5429999828338623
+glycocholate,X3214,7,SS_Blautia.obeum,6,0.8040000200271606
+glycolithocholate,X3236,0,SS_Treponema.phagedenis,7,-0.8029999732971191
+myristoyl dihydrosphingomyelin (d18:0/14:0)*,X2674,1,SS_Eubacterium.callanderi,7,0.6110000014305115
+"N6,N6,N6-trimethyllysine",X109,2,SS_Eubacterium.callanderi,7,-0.8640000224113464
+eicosenedioate (C20:1-DC)*,X1588,3,SS_Enterocloster.clostridioformis,7,-0.6269999742507935
+1-palmitoyl-2-oleoyl-GPE (16:0/18:1),X2216,4,SS_Eubacterium.callanderi,7,0.7310000061988831
+3-hydroxy-2-methylpyridine sulfate,X5688,5,SS_Eubacterium.callanderi,7,-0.44999998807907104
+dodecadienoate (12:2)*,X1574,6,SS_Enterocloster.clostridioformis,7,-0.5509999990463257
+glycocholate,X3214,7,SS_Eubacterium.callanderi,7,0.41499999165534973
+1-palmitoyl-2-stearoyl-GPC (16:0/18:0),X2094,0,SS_Desulfovibrio.fairfieldensis,8,-0.4410000145435333
+myristoyl dihydrosphingomyelin (d18:0/14:0)*,X2674,1,SS_Desulfovibrio.fairfieldensis,8,0.7919999957084656
+picolinate,X1694,2,SS_Desulfovibrio.fairfieldensis,8,0.6669999957084656
+trans-2-hexenoylglycine,X461,3,SS_Prevotella.copri,8,-0.41100001335144043
+1-palmitoyl-2-oleoyl-GPE (16:0/18:1),X2216,4,SS_Desulfovibrio.fairfieldensis,8,0.6589999794960022
+4-ethylphenylsulfate,X4231,5,SS_Tannerella.sp..oral.taxon.HOT.286,8,-0.0729999989271164
+1-(1-enyl-palmitoyl)-GPC (P-16:0)*,X2610,6,SS_Porphyromonas.asaccharolytica,8,-0.2460000067949295
+glycocholate,X3214,7,SS_Desulfovibrio.fairfieldensis,8,0.13099999725818634
