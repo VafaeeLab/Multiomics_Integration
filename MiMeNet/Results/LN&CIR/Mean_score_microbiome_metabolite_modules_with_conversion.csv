@@ -1,0 +1,161 @@
+Metabolite Name,Old Metabolite Name,Metabolite Module Number,Microbiome Name,Microbiome Module Number,Weight
+"2,3-dihydroxy-5-methylthio-4-pentenoate (DMTPA)*",X401,0,SS_Longibaculum.sp..KGMB06250,0,0.44999998807907104
+imidazole lactate,X76,1,SS_Lactococcus.garvieae,0,0.40299999713897705
+trigonelline (N'-methylnicotinate),X2058,2,SS_Bacteroides.phage.crAss001,0,0.30300000309944153
+"5alpha-androstan-3beta,17alpha-diol disulfate",X3138,3,SS_Bacteroides.phage.crAss001,0,0.3319999873638153
+1-methyl-4-imidazoleacetate,X86,4,SS_Longibaculum.sp..KGMB06250,0,0.32600000500679016
+prolylglycine,X1656,5,SS_Veillonella.dispar,0,-0.1340000033378601
+N1-Methyl-2-pyridone-5-carboxamide,X4049,6,SS_Lactococcus.garvieae,0,0.30000001192092896
+3-hydroxybutyroylglycine**,X1690,7,SS_Veillonella.dispar,0,0.014000000432133675
+alanine,X28,8,SS_Bacteroides.phage.crAss001,0,0.36399999260902405
+deoxycholate,X3217,9,SS_Campylobacter.hominis,0,-0.05000000074505806
+"2,3-dihydroxy-5-methylthio-4-pentenoate (DMTPA)*",X401,0,SS_Longibaculum.sp..KGMB06250,0,0.44999998807907104
+formiminoglutamate,X77,0,SS_Oxalobacter.formigenes,1,-0.017999999225139618
+margarate (17:0),X1714,0,SS_Streptococcus.sp..HSISM1,2,-0.47099998593330383
+kynurenate,X249,0,SS_Clostridium.perfringens,3,0.7049999833106995
+succinoyltaurine,X1350,0,SS_Streptococcus.sanguinis,4,0.3409999907016754
+margarate (17:0),X1714,0,SS_Propionimicrobium.sp..Marseille.P3275,5,-0.8029999732971191
+N1-methylinosine,X3924,0,SS_Ligilactobacillus.agilis,6,-0.20499999821186066
+thyroxine,X358,0,SS_Bacteroides.heparinolyticus,7,0.10599999874830246
+imidazole lactate,X76,1,SS_Lactococcus.garvieae,0,0.40299999713897705
+imidazole lactate,X76,1,SS_Streptococcus.sp..I.P16,1,0.029999999329447746
+imidazole lactate,X76,1,SS_Veillonella.nakazawae,2,-0.18700000643730164
+3-formylindole,X4444,1,SS_Streptococcus.oralis,3,0.3880000114440918
+imidazole lactate,X76,1,SS_Erysipelatoclostridium.ramosum,4,0.17599999904632568
+phenyllactate (PLA),X143,1,SS_Dialister.pneumosintes,5,-0.41499999165534973
+imidazole lactate,X76,1,SS_Klebsiella.aerogenes,6,-0.40700000524520874
+3-formylindole,X4444,1,SS_Butyricimonas.virosa,7,0.11599999666213989
+trigonelline (N'-methylnicotinate),X2058,2,SS_Bacteroides.phage.crAss001,0,0.30300000309944153
+hydroxypalmitoyl sphingomyelin (d18:1/16:0(OH))**,X3260,2,SS_Oxalobacter.formigenes,1,0.3199999928474426
+glycoursodeoxycholate,X3252,2,SS_Monoglobus.pectinilyticus,2,-0.21899999678134918
+N-acetylalliin,X448,2,SS_Clostridium.perfringens,3,0.5210000276565552
+glycoursodeoxycholate,X3252,2,SS_Pseudomonas.aeruginosa,4,0.3540000021457672
+hydroxypalmitoyl sphingomyelin (d18:1/16:0(OH))**,X3260,2,SS_Propionibacterium.acidifaciens,5,-0.4620000123977661
+hydroxypalmitoyl sphingomyelin (d18:1/16:0(OH))**,X3260,2,SS_Ligilactobacillus.agilis,6,-0.12800000607967377
+trigonelline (N'-methylnicotinate),X2058,2,SS_Fastidiosipila.sanguinis,7,0.17599999904632568
+"5alpha-androstan-3beta,17alpha-diol disulfate",X3138,3,SS_Bacteroides.phage.crAss001,0,0.3319999873638153
+"5alpha-androstan-3beta,17alpha-diol disulfate",X3138,3,SS_Parolsenella.catena,1,-0.06800000369548798
+hexanoylglycine,X4176,3,SS_Monoglobus.pectinilyticus,2,-0.2370000034570694
+hexanoylglycine,X4176,3,SS_Prevotella.copri,3,0.4909999966621399
+hexanoylglycine,X4176,3,SS_Veillonella.rodentium,4,-0.19699999690055847
+"5alpha-androstan-3beta,17alpha-diol disulfate",X3138,3,SS_Treponema.phagedenis,5,-0.04500000178813934
+hexanoylglycine,X4176,3,SS_Clostridium.sp..SY8519,6,0.1509999930858612
+"5alpha-androstan-3beta,17alpha-diol disulfate",X3138,3,SS_Lachnospira.eligens,7,0.6370000243186951
+1-methyl-4-imidazoleacetate,X86,4,SS_Longibaculum.sp..KGMB06250,0,0.32600000500679016
+2'-O-methyluridine,X3954,4,SS_Streptococcus.sp..I.P16,1,0.0949999988079071
+N-acetylneuraminate,X134,4,SS_Streptococcus.sp..LPB0220,2,-0.35100001096725464
+picolinate,X1694,4,SS_Streptococcus.oralis,3,0.7200000286102295
+picolinate,X1694,4,SS_Veillonella.rodentium,4,0.04500000178813934
+methadone,X387,4,SS_Bifidobacterium.pseudocatenulatum,5,-0.5600000023841858
+methionine sulfone,X393,4,SS_Clostridium.sp..SY8519,6,-0.35100001096725464
+N-acetylthreonine,X239,4,SS_Desulfovibrio.desulfuricans,7,0.31700000166893005
+prolylglycine,X1656,5,SS_Veillonella.dispar,0,-0.1340000033378601
+2-aminobutyrate,X526,5,SS_Oxalobacter.formigenes,1,0.08900000154972076
+2-aminobutyrate,X526,5,SS_Sutterella.wadsworthensis,2,-0.5350000262260437
+indolepropionate,X4594,5,SS_Adlercreutzia.equolifaciens,3,0.5699999928474426
+2-aminobutyrate,X526,5,SS_Pseudomonas.aeruginosa,4,0.1850000023841858
+gamma-glutamyl-2-aminobutyrate,X592,5,SS_Bifidobacterium.pseudocatenulatum,5,-0.47600001096725464
+docosapentaenoylcarnitine (C22:5n3)*,X1746,5,SS_Klebsiella.aerogenes,6,-0.13500000536441803
+gamma-glutamyl-2-aminobutyrate,X592,5,SS_Desulfovibrio.desulfuricans,7,0.3930000066757202
+N1-Methyl-2-pyridone-5-carboxamide,X4049,6,SS_Lactococcus.garvieae,0,0.30000001192092896
+1-methylnicotinamide,X4041,6,SS_Bacteroides.helcogenes,1,-0.08500000089406967
+1-methylnicotinamide,X4041,6,SS_Sutterella.wadsworthensis,2,0.11699999868869781
+1-methylnicotinamide,X4041,6,SS_Faecalibacterium.virus.Toutatis,3,0.597000002861023
+N1-Methyl-2-pyridone-5-carboxamide,X4049,6,SS_.Ruminococcus..gnavus,4,0.006000000052154064
+1-methylnicotinamide,X4041,6,SS_Propionimicrobium.sp..Marseille.P3275,5,-0.6940000057220459
+1-methylnicotinamide,X4041,6,SS_Enterocloster.clostridioformis,6,0.0729999989271164
+1-methylnicotinamide,X4041,6,SS_Campylobacter.jejuni,7,0.36399999260902405
+3-hydroxybutyroylglycine**,X1690,7,SS_Veillonella.dispar,0,0.014000000432133675
+3-hydroxybutyroylglycine**,X1690,7,SS_Bacteroides.helcogenes,1,0.05400000140070915
+palmitate (16:0),X1418,7,SS_Veillonella.nakazawae,2,0.19499999284744263
+3-hydroxybutyroylglycine**,X1690,7,SS_Clostridium.perfringens,3,-0.30000001192092896
+alpha-hydroxycaproate,X1794,7,SS_Mogibacterium.diversum,4,0.14399999380111694
+palmitate (16:0),X1418,7,SS_Propionimicrobium.sp..Marseille.P3275,5,0.03400000184774399
+3-hydroxybutyroylglycine**,X1690,7,SS_Ligilactobacillus.agilis,6,0.27000001072883606
+alpha-hydroxycaproate,X1794,7,SS_Sodaliphilus.pleomorphus,7,-0.5130000114440918
+alanine,X28,8,SS_Bacteroides.phage.crAss001,0,0.36399999260902405
+alanine,X28,8,SS_Gemella.sanguinis,1,-0.007000000216066837
+cysteine-glutathione disulfide,X519,8,SS_Streptococcus.sp..LPB0220,2,-0.32100000977516174
+pro-hydroxy-pro,X444,8,SS_Prevotella.copri,3,0.03099999949336052
+cysteine-glutathione disulfide,X519,8,SS_Pseudomonas.aeruginosa,4,-0.08799999952316284
+cysteine-glutathione disulfide,X519,8,SS_Dialister.pneumosintes,5,0.09200000017881393
+alanine,X28,8,SS_Clostridium.sp..SY8519,6,0.0430000014603138
+pro-hydroxy-pro,X444,8,SS_Bacteroides.heparinolyticus,7,0.3490000069141388
+deoxycholate,X3217,9,SS_Campylobacter.hominis,0,-0.05000000074505806
+deoxycholate,X3217,9,SS_Bacteroides.helcogenes,1,0.09200000017881393
+deoxycholate,X3217,9,SS_Monoglobus.pectinilyticus,2,0.10000000149011612
+deoxycholate,X3217,9,SS_Adlercreutzia.equolifaciens,3,-0.08799999952316284
+deoxycholate,X3217,9,SS_Pseudomonas.aeruginosa,4,-0.14499999582767487
+deoxycholate,X3217,9,SS_Propionibacterium.acidifaciens,5,0.14100000262260437
+deoxycholate,X3217,9,SS_Klebsiella.aerogenes,6,0.5550000071525574
+deoxycholate,X3217,9,SS_Bacteroides.caecimuris,7,0.0560000017285347
+formiminoglutamate,X77,0,SS_Oxalobacter.formigenes,1,-0.017999999225139618
+imidazole lactate,X76,1,SS_Streptococcus.sp..I.P16,1,0.029999999329447746
+hydroxypalmitoyl sphingomyelin (d18:1/16:0(OH))**,X3260,2,SS_Oxalobacter.formigenes,1,0.3199999928474426
+"5alpha-androstan-3beta,17alpha-diol disulfate",X3138,3,SS_Parolsenella.catena,1,-0.06800000369548798
+2'-O-methyluridine,X3954,4,SS_Streptococcus.sp..I.P16,1,0.0949999988079071
+2-aminobutyrate,X526,5,SS_Oxalobacter.formigenes,1,0.08900000154972076
+1-methylnicotinamide,X4041,6,SS_Bacteroides.helcogenes,1,-0.08500000089406967
+3-hydroxybutyroylglycine**,X1690,7,SS_Bacteroides.helcogenes,1,0.05400000140070915
+alanine,X28,8,SS_Gemella.sanguinis,1,-0.007000000216066837
+deoxycholate,X3217,9,SS_Bacteroides.helcogenes,1,0.09200000017881393
+margarate (17:0),X1714,0,SS_Streptococcus.sp..HSISM1,2,-0.47099998593330383
+imidazole lactate,X76,1,SS_Veillonella.nakazawae,2,-0.18700000643730164
+glycoursodeoxycholate,X3252,2,SS_Monoglobus.pectinilyticus,2,-0.21899999678134918
+hexanoylglycine,X4176,3,SS_Monoglobus.pectinilyticus,2,-0.2370000034570694
+N-acetylneuraminate,X134,4,SS_Streptococcus.sp..LPB0220,2,-0.35100001096725464
+2-aminobutyrate,X526,5,SS_Sutterella.wadsworthensis,2,-0.5350000262260437
+1-methylnicotinamide,X4041,6,SS_Sutterella.wadsworthensis,2,0.11699999868869781
+palmitate (16:0),X1418,7,SS_Veillonella.nakazawae,2,0.19499999284744263
+cysteine-glutathione disulfide,X519,8,SS_Streptococcus.sp..LPB0220,2,-0.32100000977516174
+deoxycholate,X3217,9,SS_Monoglobus.pectinilyticus,2,0.10000000149011612
+kynurenate,X249,0,SS_Clostridium.perfringens,3,0.7049999833106995
+3-formylindole,X4444,1,SS_Streptococcus.oralis,3,0.3880000114440918
+N-acetylalliin,X448,2,SS_Clostridium.perfringens,3,0.5210000276565552
+hexanoylglycine,X4176,3,SS_Prevotella.copri,3,0.4909999966621399
+picolinate,X1694,4,SS_Streptococcus.oralis,3,0.7200000286102295
+indolepropionate,X4594,5,SS_Adlercreutzia.equolifaciens,3,0.5699999928474426
+1-methylnicotinamide,X4041,6,SS_Faecalibacterium.virus.Toutatis,3,0.597000002861023
+3-hydroxybutyroylglycine**,X1690,7,SS_Clostridium.perfringens,3,-0.30000001192092896
+pro-hydroxy-pro,X444,8,SS_Prevotella.copri,3,0.03099999949336052
+deoxycholate,X3217,9,SS_Adlercreutzia.equolifaciens,3,-0.08799999952316284
+succinoyltaurine,X1350,0,SS_Streptococcus.sanguinis,4,0.3409999907016754
+imidazole lactate,X76,1,SS_Erysipelatoclostridium.ramosum,4,0.17599999904632568
+glycoursodeoxycholate,X3252,2,SS_Pseudomonas.aeruginosa,4,0.3540000021457672
+hexanoylglycine,X4176,3,SS_Veillonella.rodentium,4,-0.19699999690055847
+picolinate,X1694,4,SS_Veillonella.rodentium,4,0.04500000178813934
+2-aminobutyrate,X526,5,SS_Pseudomonas.aeruginosa,4,0.1850000023841858
+N1-Methyl-2-pyridone-5-carboxamide,X4049,6,SS_.Ruminococcus..gnavus,4,0.006000000052154064
+alpha-hydroxycaproate,X1794,7,SS_Mogibacterium.diversum,4,0.14399999380111694
+cysteine-glutathione disulfide,X519,8,SS_Pseudomonas.aeruginosa,4,-0.08799999952316284
+deoxycholate,X3217,9,SS_Pseudomonas.aeruginosa,4,-0.14499999582767487
+margarate (17:0),X1714,0,SS_Propionimicrobium.sp..Marseille.P3275,5,-0.8029999732971191
+phenyllactate (PLA),X143,1,SS_Dialister.pneumosintes,5,-0.41499999165534973
+hydroxypalmitoyl sphingomyelin (d18:1/16:0(OH))**,X3260,2,SS_Propionibacterium.acidifaciens,5,-0.4620000123977661
+"5alpha-androstan-3beta,17alpha-diol disulfate",X3138,3,SS_Treponema.phagedenis,5,-0.04500000178813934
+methadone,X387,4,SS_Bifidobacterium.pseudocatenulatum,5,-0.5600000023841858
+gamma-glutamyl-2-aminobutyrate,X592,5,SS_Bifidobacterium.pseudocatenulatum,5,-0.47600001096725464
+1-methylnicotinamide,X4041,6,SS_Propionimicrobium.sp..Marseille.P3275,5,-0.6940000057220459
+palmitate (16:0),X1418,7,SS_Propionimicrobium.sp..Marseille.P3275,5,0.03400000184774399
+cysteine-glutathione disulfide,X519,8,SS_Dialister.pneumosintes,5,0.09200000017881393
+deoxycholate,X3217,9,SS_Propionibacterium.acidifaciens,5,0.14100000262260437
+N1-methylinosine,X3924,0,SS_Ligilactobacillus.agilis,6,-0.20499999821186066
+imidazole lactate,X76,1,SS_Klebsiella.aerogenes,6,-0.40700000524520874
+hydroxypalmitoyl sphingomyelin (d18:1/16:0(OH))**,X3260,2,SS_Ligilactobacillus.agilis,6,-0.12800000607967377
+hexanoylglycine,X4176,3,SS_Clostridium.sp..SY8519,6,0.1509999930858612
+methionine sulfone,X393,4,SS_Clostridium.sp..SY8519,6,-0.35100001096725464
+docosapentaenoylcarnitine (C22:5n3)*,X1746,5,SS_Klebsiella.aerogenes,6,-0.13500000536441803
+1-methylnicotinamide,X4041,6,SS_Enterocloster.clostridioformis,6,0.0729999989271164
+3-hydroxybutyroylglycine**,X1690,7,SS_Ligilactobacillus.agilis,6,0.27000001072883606
+alanine,X28,8,SS_Clostridium.sp..SY8519,6,0.0430000014603138
+deoxycholate,X3217,9,SS_Klebsiella.aerogenes,6,0.5550000071525574
+thyroxine,X358,0,SS_Bacteroides.heparinolyticus,7,0.10599999874830246
+3-formylindole,X4444,1,SS_Butyricimonas.virosa,7,0.11599999666213989
+trigonelline (N'-methylnicotinate),X2058,2,SS_Fastidiosipila.sanguinis,7,0.17599999904632568
+"5alpha-androstan-3beta,17alpha-diol disulfate",X3138,3,SS_Lachnospira.eligens,7,0.6370000243186951
+N-acetylthreonine,X239,4,SS_Desulfovibrio.desulfuricans,7,0.31700000166893005
+gamma-glutamyl-2-aminobutyrate,X592,5,SS_Desulfovibrio.desulfuricans,7,0.3930000066757202
+1-methylnicotinamide,X4041,6,SS_Campylobacter.jejuni,7,0.36399999260902405
+alpha-hydroxycaproate,X1794,7,SS_Sodaliphilus.pleomorphus,7,-0.5130000114440918
+pro-hydroxy-pro,X444,8,SS_Bacteroides.heparinolyticus,7,0.3490000069141388
+deoxycholate,X3217,9,SS_Bacteroides.caecimuris,7,0.0560000017285347
